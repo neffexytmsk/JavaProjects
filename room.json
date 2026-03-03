@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "codeNumbers": "213",
+    "numberPeople": 123,
+    "comfortType": "Стандарт",
+    "price": 1213.0,
+    "type": "standard"
+  },
+  {
+    "minRentalDays": 0,
+    "maxRentalDays": 0,
+    "id": 2,
+    "codeNumbers": "124",
+    "numberPeople": 123,
+    "comfortType": "Люкс",
+    "price": 12333.0,
+    "type": "lux"
+  },
+  {
+    "id": 3,
+    "codeNumbers": "121",
+    "numberPeople": 123,
+    "comfortType": "Полулюкс",
+    "price": 4000.0,
+    "type": "semilux"
+  },
+  {
+    "id": 4,
+    "codeNumbers": "154",
+    "numberPeople": 7,
+    "comfortType": "Полулюкс",
+    "price": 3030.0,
+    "type": "semilux"
+  },
+  {
+    "id": 5,
+    "codeNumbers": "1",
+    "numberPeople": 6,
+    "comfortType": "Полулюкс",
+    "price": 3933.0,
+    "type": "semilux"
+  },
+  {
+    "id": 6,
+    "codeNumbers": "145",
+    "numberPeople": 3,
+    "comfortType": "Полулюкс",
+    "price": 2000.0,
+    "type": "semilux"
+  },
+  {
+    "id": 7,
+    "codeNumbers": "13",
+    "numberPeople": 212,
+    "comfortType": "Полулюкс",
+    "price": 1235.0,
+    "type": "semilux"
+  },
+  {
+    "id": 8,
+    "codeNumbers": "17",
+    "numberPeople": 12,
+    "comfortType": "Полулюкс",
+    "price": 1244.0,
+    "type": "semilux"
+  },
+  {
+    "id": 9,
+    "codeNumbers": "125",
+    "numberPeople": 4,
+    "comfortType": "Полулюкс",
+    "price": 5000.0,
+    "type": "semilux"
+  },
+  {
+    "minRentalDays": 30,
+    "maxRentalDays": 180,
+    "id": 10,
+    "codeNumbers": "155",
+    "numberPeople": 7,
+    "comfortType": "Люкс",
+    "price": 5000.0,
+    "type": "lux"
+  },
+  {
+    "id": 11,
+    "codeNumbers": "553",
+    "numberPeople": 5,
+    "comfortType": "Стандарт",
+    "price": 1500.0,
+    "type": "standard"
+  },
+  {
+    "id": 12,
+    "codeNumbers": "134",
+    "numberPeople": 4,
+    "comfortType": "Полулюкс",
+    "price": 3000.0,
+    "type": "semilux"
+  }
+]
